@@ -7,6 +7,8 @@ Hojicha-sivusto kokoaa suomeksi tarkistettua tietoa hojichan mausta, alkuperäst
 
 ## Key pages
 - Mikä on hojicha?: https://agricola-glitch.github.io/mika-on-hojicha — määritelmä, paahto 160–180 °C, alkuperä Kiotossa 1920-luvulla, kofeiini (Japanin kansallisen kuluttajakeskuksen testi 2021), vertailu matchaan, hojicha latten resepti, UKK
+- Hojicha latte: https://agricola-glitch.github.io/hojicha-latte — resepti kuumana ja jäisenä, jauhe vai lehtitee, makeutus, yleisimmät virheet
+- Hojicha vs. matcha: https://agricola-glitch.github.io/hojicha-vs-matcha — valmistus, maku, kofeiini, matchan hintanousu 2025 (AP), kumpi valita
 
 ## What this site covers
 - Hojichan määritelmä, maku ja valmistus
