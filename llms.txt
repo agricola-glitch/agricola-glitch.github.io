@@ -1,0 +1,19 @@
+# Hojicha
+
+> Suomenkielinen opas hojichaan, paahdettuun japanilaiseen vihreään teehen. Tarkoitettu suomalaisille teestä, matchasta ja kahvilakulttuurista kiinnostuneille.
+
+## About
+Hojicha-sivusto kokoaa suomeksi tarkistettua tietoa hojichan mausta, alkuperästä, kofeiinista ja valmistuksesta. Jokaisen väitteen lähde on merkitty artikkeliin. Sivusto ei myy tuotteita.
+
+## Key pages
+- Mikä on hojicha?: https://agricola-glitch.github.io/mika-on-hojicha — määritelmä, paahto 160–180 °C, alkuperä Kiotossa 1920-luvulla, kofeiini (Japanin kansallisen kuluttajakeskuksen testi 2021), vertailu matchaan, hojicha latten resepti, UKK
+
+## What this site covers
+- Hojichan määritelmä, maku ja valmistus
+- Kofeiini ja vertailu matchaan ja kahviin
+- Hojicha latte ja muut juomat
+- Hojichan kysyntä ja trendi Suomessa ja maailmalla
+
+## What this site does not cover
+- Terveysväitteet tai lääketieteelliset suositukset
+- Tuotteiden myynti tai hintavertailut
